@@ -12,4 +12,3 @@ daysToAdd = fix(hour / 24);
 hour = mod(hour, 24);
 
 % 추가된 일 수를 날짜에 반영하기
-    
