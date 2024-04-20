@@ -34,5 +34,3 @@ end
 
 % 결과 출력하기
 disp(['결과: ', num2str(year), '년 ', num2str(month), '월 ', num2str(day), '일 ', num2str(hour), '시']);% 연도, 월, 날짜, 시간, 추가할 시간 입력 받기
-=======
-% 추가된 일 수를 날짜에 반영하기
